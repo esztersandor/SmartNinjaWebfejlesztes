@@ -1,0 +1,55 @@
+.navigation {
+    background-color: red;
+    height: 50px;
+    width: auto;
+}
+#main {
+    background-color: #0000ff52;
+    width: 80%;
+    /* margin: 0 auto;
+    height: 50px; */
+}
+
+
+.navigation h1{
+  color: #fff;
+}
+
+#slidebar{
+  background-color: #1eff00ba;
+  width: 20%;
+}
+
+.fixed {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 200px;
+    height: 50px;
+    background-color: blue;
+}
+.lista li a{}
+display: block;
+position: relative;
+left: 50px;
+}
+
+  p {
+    color: #eca114
+
+  }
+
+.fejlec_1 {
+  text-align: center;
+}
+
+
+.image {
+  width: 300px
+  border: 16px blue dotted;
+  padding: 25px;
+}
+.image:hover {
+  border: 6px red solid;
+}
+<p style="color: blue">
